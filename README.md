@@ -2,4 +2,4 @@
 
 DevChallengers
 
-first-project-3ee0b.firebaseapp.com
+https://first-project-3ee0b.firebaseapp.com/
